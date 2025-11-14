@@ -1,0 +1,3 @@
+student namr:adithi
+usn:4MU24CS003
+email: adithi_cse24@mysururoyal.org
